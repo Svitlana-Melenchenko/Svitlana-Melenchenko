@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📫 How to reach me **svitlanamelenchenko@ukr.net**
+- 📫 How to reach me **melsvitlan@ukr.net**
 
 
 <h3 align="left">Languages and Tools:</h3>
