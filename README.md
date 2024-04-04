@@ -12,4 +12,4 @@
 
 <div></div>
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=svetlana-melenchenko&show_icons=true&locale=en" alt="svetlana-melenchenko" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=svitlana-melenchenko&show_icons=true&locale=en" alt="svitlana-melenchenko" /></p>
